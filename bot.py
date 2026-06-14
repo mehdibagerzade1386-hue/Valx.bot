@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8918914057:AAHEaBklKqON0_ADLVUp0_7P5UzTaSWcLjg")
 CHANNEL = "@VALXOfficial"
-ADMIN_ID = None  # بعد پر میکنیم
+ADMIN_ID = 8824013201 # بعد پر میکنیم
 WHITELIST_FILE = "whitelist.txt"
 MAX_WHITELIST = 100
 
